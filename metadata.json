@@ -1,0 +1,6 @@
+{
+  "name": "NoorCut",
+  "description": "Short-form inspirational Sunnah Edit video studio with smart trimming, red/green visual cues, punchy captions, slowed/reverb audio mixing, and 9:16 export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
